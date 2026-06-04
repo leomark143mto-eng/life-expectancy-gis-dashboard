@@ -19,11 +19,11 @@ st.set_page_config(
 # ==================================
 
 GIS = pd.read_excel(
-    "data/GIS_POLICY_PROJECTIONS.xlsx"
+    "GIS_POLICY_PROJECTIONS.xlsx"
 )
 
 SD = pd.read_excel(
-    "data/SD_MASTER.xlsx"
+    "SD_MASTER.xlsx"
 )
 
 # ==================================
